@@ -1,3 +1,5 @@
-# My personal homepage
+## My personal homepage
 
-Powered by [Jekyll](http://jekyllrb.com/), [Github Pages](https://pages.github.com/) and others.
+Hosted at http://luizfcp.github.io
+
+>- Powered by [Jekyll](http://jekyllrb.com/), [Github Pages](https://pages.github.com/) and others.
